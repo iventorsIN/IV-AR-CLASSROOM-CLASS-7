@@ -29,9 +29,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Autotrophic/Autotrophic.unity
     guid: 7b539df7c3aa3c9449ba76a1f7df6d81
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Soil-Profile/SoilProfile.unity
     guid: 1895921173788de40877f375ac5f7349
+  - enabled: 0
+    path: Assets/Scenes/SunDial/SunDial.unity
+    guid: 8893f55c4ee0aa94b8c563a50ed59211
+  - enabled: 0
+    path: Assets/Scenes/AnimalFiber/Yarn.unity
+    guid: 38301b62825419641986c3c44d1956dd
+  - enabled: 1
+    path: Assets/Scenes/AnimalFiber/Caterpillar.unity
+    guid: 2268e40fb3d925446a1c23b113613ab6
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
