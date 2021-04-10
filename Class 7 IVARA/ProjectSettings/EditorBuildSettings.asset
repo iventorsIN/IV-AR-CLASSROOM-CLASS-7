@@ -8,9 +8,21 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/ExampleAssets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/RespirationPlant/PlantRep.unity
+    guid: a6a7a838c2b395f43a4cd68effef89d5
+  - enabled: 0
+    path: Assets/Scenes/Amobea/Amobea.unity
+    guid: d73b1b74800af604d89a69303fa0c9e9
+  - enabled: 0
+    path: Assets/Scenes/HumanDigestiveSystem/HumanDigestiveSystem.unity
+    guid: 4716ef13034167445b92aa0dd17544d9
   - enabled: 1
-    path: Assets/Scenes/AnimalFiber/AnimalFiber2.unity
-    guid: 552eb9c4586f1f646821b572d978babc
+    path: Assets/Scenes/teeth/Teeth.unity
+    guid: 0cb57fc23eca5fa40b5d5fdb58086982
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}

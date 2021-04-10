@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: daa8c79d1f9776d48899147250efb49d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  place_object: {fileID: 6580380861625304395, guid: e9612d91ab8f616438d86f4ae7b07f0e,
+  place_object: {fileID: 1707809226537480143, guid: 6023dc37d0f54f948b13802ea9d49ff6,
     type: 3}
   ar_session_origin: {fileID: 1947191392}
 --- !u!4 &278881722
