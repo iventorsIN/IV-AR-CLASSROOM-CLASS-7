@@ -6,41 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/ExampleAssets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/6 Scenes/science/1 food/cleaning food/Cleaning of food.unity
+    guid: fd55429644a796e41a6ac623acd9e7f0
   - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+    path: Assets/6 Scenes/science/1 food/components of food/components of food.unity
+    guid: 2a97c1b8b0bad954882c50acc5d280fa
   - enabled: 0
-    path: Assets/Scenes/RespirationPlant/PlantRep.unity
-    guid: a6a7a838c2b395f43a4cd68effef89d5
+    path: Assets/6 Scenes/science/2 materials/materials of daily use/Daily use materials.unity
+    guid: dde6c63f07f5f81448dbaeaf2ec5c02b
   - enabled: 0
-    path: Assets/Scenes/Amobea/Amobea.unity
-    guid: d73b1b74800af604d89a69303fa0c9e9
+    path: Assets/6 Scenes/science/7 natural resources/Natural Resources.unity
+    guid: a22289ef0a82b664b8e8c920239f2a94
   - enabled: 0
-    path: Assets/Scenes/Heterotrops/Hetro.unity
-    guid: 1f1312163d3428e4fa4624c24dc1ec73
+    path: Assets/6 Scenes/science/7 natural resources/Waste Bins.unity
+    guid: f2bc404b345bf544dadd0bf8b29a4e9e
   - enabled: 0
-    path: Assets/Scenes/HumanDigestiveSystem/HumanDigestiveSystem.unity
-    guid: 4716ef13034167445b92aa0dd17544d9
-  - enabled: 0
-    path: Assets/Scenes/teeth/Teeth.unity
-    guid: 0cb57fc23eca5fa40b5d5fdb58086982
-  - enabled: 0
-    path: Assets/Scenes/Autotrophic/Autotrophic.unity
-    guid: 7b539df7c3aa3c9449ba76a1f7df6d81
-  - enabled: 0
-    path: Assets/Scenes/Soil-Profile/SoilProfile.unity
-    guid: 1895921173788de40877f375ac5f7349
-  - enabled: 0
-    path: Assets/Scenes/SunDial/SunDial.unity
-    guid: 8893f55c4ee0aa94b8c563a50ed59211
-  - enabled: 0
-    path: Assets/Scenes/AnimalFiber/Yarn.unity
-    guid: 38301b62825419641986c3c44d1956dd
+    path: Assets/6 Scenes/science/4 Moving things,people, ideas moving/MeasuringTools.unity
+    guid: a56e296a58ffbcc41aa9d568022a7214
   - enabled: 1
-    path: Assets/Scenes/AnimalFiber/Caterpillar.unity
-    guid: 2268e40fb3d925446a1c23b113613ab6
+    path: Assets/6 Scenes/science/5 how things work/Things Working.unity
+    guid: 7bac2b8011e3bf6459924548d2fbfaac
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
